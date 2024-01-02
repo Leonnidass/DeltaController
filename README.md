@@ -1,6 +1,6 @@
 # ![dar](https://github.com/Leonnidass/DeltaController/assets/100625531/3fc2268a-4a76-40a5-91ed-d7259847ed39)
 
-
+--ONGOING-- <br/>
 This repository will contain all my internship work on the X-Delta Robot.
 - The controllers (OpenCR controller and ROS U2D2 controllers)
 - The kinematic representation.
@@ -42,3 +42,16 @@ https://raw.githubusercontent.com/ROBOTIS-GIT/OpenCR/master/arduino/opencr_relea
 ## Setting up the Board
 - Open the open_manipulator_delta folder
 - Upload the open_manipulator_delta.ino file to the OpenCR
+
+## Processing IDE
+Processing is an open-source IDE that uses JAVA for sketching and controlling electronic devices.
+- Download the Processing Software
+- Open the Delta folder
+- Upload the Delta.pde to the OpenCR.
+
+## Testing 
+- You will have 2 windows open, the visualization of the robot and the controller.
+
+![image](https://github.com/Leonnidass/DeltaController/assets/100625531/7a25f2af-2a5c-43f5-a983-14b565415892)
+
+- You can control the real robot or the simulation by choosing TOOL in the controller.
