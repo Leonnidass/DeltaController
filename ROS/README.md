@@ -13,7 +13,7 @@ sudo apt-get install ros-noetic-joystick-drivers
 ```bash
 mkdir delta_ws/src
 cd delta_ws/src
-git clone https://github.com/Leonnidass/DeltaController/ROS.git
+git clone https://github.com/Leonnidass/DeltaController/tree/main/ROS.git
 cd delta_ws
 catkin_make
 ```
