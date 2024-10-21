@@ -1,6 +1,5 @@
 # ![dar](https://github.com/Leonnidass/DeltaController/assets/100625531/3fc2268a-4a76-40a5-91ed-d7259847ed39)
 
---ONGOING-- <br/>
 This repository will contain all my internship work on the X-Delta Robot.
 - The controllers (OpenCR controller and ROS U2D2 controllers)
 - The kinematic representation.
